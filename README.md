@@ -11,7 +11,7 @@ This small web project was created for personal practice and experimentation wit
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser (or click [here](https://sarafreitas02.github.io/NumGuessGame/)).
+1. Open the `index.html` file in a web browser (or click [here](https://sarafreitas02.github.io/NumGuessGame.js-practice/)).
 2. You will see:
    - A header with the title "Guess the number."
    - An input field to choose a number between 1 and 10.
